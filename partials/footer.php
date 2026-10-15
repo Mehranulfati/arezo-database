@@ -1,0 +1,1 @@
+</div><footer class="footer"><img src="<?=h(logo_url())?>" alt="لوگو"><span class="course-one-line">کورس وسیمه فیضی</span></footer></main><script>document.querySelectorAll('.side-nav a').forEach(a=>a.addEventListener('click',()=>document.body.classList.remove('menu-open')));</script></body></html>

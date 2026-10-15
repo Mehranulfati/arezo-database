@@ -1,0 +1,1 @@
+<?php $_GET['section']='finance';$_GET['view']='expenses'; require __DIR__.'/../admin/records.php'; ?>
